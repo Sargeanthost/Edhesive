@@ -1,18 +1,14 @@
-package Edhesive.Unit_3;
-
 /* Lesson 6 Coding Activity Question 2 */
 
 import java.util.Scanner;
 
 public class U3_L6_Activity_Two {
-    public static void main(String[] args) {
+  public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
-        int x = scan.nextInt();
-        int y = scan.nextInt();
+    Scanner scan = new Scanner(System.in);
+    int x = scan.nextInt();
+    int y = scan.nextInt();
 
-        if (!(x < 4) || !(y > 5 || x + y >= 7))
-            System.out.println("pass");
-
-    }
+    if (!(x < 4) || !(y > 5 || x + y >= 7)) System.out.println("pass");
+  }
 }

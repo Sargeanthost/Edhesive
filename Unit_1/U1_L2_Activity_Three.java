@@ -1,5 +1,4 @@
 /* Lesson 2 Coding Activity Question 3 */
-package Edhesive.Unit_1;
 
 import java.util.Scanner;
 
@@ -13,6 +12,5 @@ class U1_L2_Activity_Three {
     System.out.println("What adjective describes you?");
     String a = scan.nextLine();
     System.out.println("My name is " + n + ". I am " + a + ".");
-
   }
 }

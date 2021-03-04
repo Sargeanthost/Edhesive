@@ -1,5 +1,3 @@
-package Edhesive.Unit_5;
-
 /* Lesson 1 Coding Activity Question 1 */
 
 public class U5_L1_Activity_One {

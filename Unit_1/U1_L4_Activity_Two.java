@@ -1,5 +1,3 @@
-package Edhesive.Unit_1;
-
 /* Lesson 4 Coding Activity Question 2 */
 
 import java.util.Scanner;
@@ -10,6 +8,5 @@ class U1_L4_Activity_Two {
     System.out.println("Enter inches");
     int inch = scan.nextInt();
     System.out.println(inch / 12);
-
   }
 }

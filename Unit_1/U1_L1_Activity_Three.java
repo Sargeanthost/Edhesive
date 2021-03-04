@@ -1,5 +1,3 @@
-package Edhesive.Unit_1;
-
 /* Lesson 1 Coding Activity Question 3 */
 
 class U1_L1_Activity_Three {
@@ -8,6 +6,5 @@ class U1_L1_Activity_Three {
     System.out.println("********");
     System.out.println("* java *");
     System.out.println("********");
-
   }
 }

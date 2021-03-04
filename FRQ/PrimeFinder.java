@@ -1,4 +1,4 @@
-package Edhesive.FRQ;
+ Edhesive.FRQ;
 
 //Part A and B
 public class PrimeFinder

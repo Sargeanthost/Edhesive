@@ -1,5 +1,3 @@
-package Edhesive.Unit_1;
-
 /* Lesson 6 Coding Activity Question 1 */
 
 import java.util.Scanner;
@@ -13,6 +11,5 @@ class U1_L6_Activity_One {
     int two = scan.nextInt();
 
     System.out.println("The average is : " + (double) (one + two) / 2);
-
   }
 }

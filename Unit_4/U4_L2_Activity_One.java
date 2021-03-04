@@ -1,5 +1,3 @@
-package Edhesive.Unit_4;
-
 /* Lesson 2 Coding Activity Question 1 */
 
 import java.util.Scanner;
@@ -18,5 +16,4 @@ public class U4_L2_Activity_One {
       }
     }
   }
-
 }

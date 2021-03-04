@@ -1,6 +1,4 @@
-package Edhesive.Unit_5;
-
-//Unit 5: Lesson 5 - Coding Activity 2
+// Unit 5: Lesson 5 - Coding Activity 2
 
 public class Elevator {
 
@@ -62,5 +60,4 @@ public class Elevator {
       currentFloor = floor;
     }
   }
-
 }

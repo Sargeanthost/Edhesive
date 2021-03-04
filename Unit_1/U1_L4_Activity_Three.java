@@ -1,5 +1,3 @@
-package Edhesive.Unit_1;
-
 /* Lesson 4 Coding Activity Question 3 */
 
 import java.util.Scanner;

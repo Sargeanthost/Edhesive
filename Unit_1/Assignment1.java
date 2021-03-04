@@ -1,5 +1,3 @@
-package Edhesive.Unit_1;
-
 /* Assignment 1 - Movie Ratings */
 import java.util.Scanner;
 
@@ -33,6 +31,7 @@ class Assignment1 {
 
     System.out.println("Average movie critic rating: " + crit);
 
-    System.out.println("Overall movie rating: " + Math.round(.2 * webRate + .3 * focusRate + .5 * crit));
+    System.out.println(
+        "Overall movie rating: " + Math.round(.2 * webRate + .3 * focusRate + .5 * crit));
   }
 }

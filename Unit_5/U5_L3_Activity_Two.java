@@ -1,8 +1,5 @@
-package Edhesive.Unit_5;
-
 /* Lesson 3 Coding Activity Question 2 */
 
-import java.util.Scanner;
 import edhesive.shapes.*;
 import edhesive.testing.Math;
 

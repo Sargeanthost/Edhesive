@@ -1,6 +1,4 @@
-package Edhesive.Unit_5;
-
-//Unit 5: Lesson 8 - Coding Activity
+// Unit 5: Lesson 8 - Coding Activity
 
 public class Student {
 
@@ -35,6 +33,14 @@ public class Student {
   @Override
   public String toString() {
 
-    return lName + ", " + fName + "\nGPA: " + gpa + "\nGrade Level: " + gLevel + " id # " + studentId;
+    return lName
+        + ", "
+        + fName
+        + "\nGPA: "
+        + gpa
+        + "\nGrade Level: "
+        + gLevel
+        + " id # "
+        + studentId;
   }
 }

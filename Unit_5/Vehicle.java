@@ -1,5 +1,3 @@
-package Edhesive.Unit_5;
-
 public class Vehicle {
 
   int location = 0;

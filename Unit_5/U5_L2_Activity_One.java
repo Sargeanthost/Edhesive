@@ -1,5 +1,3 @@
-package Edhesive.Unit_5;
-
 /* Lesson 2 Coding Activity Question 1 */
 
 public class U5_L2_Activity_One {
@@ -46,5 +44,4 @@ public class U5_L2_Activity_One {
     }
     System.out.println(month);
   }
-
 }

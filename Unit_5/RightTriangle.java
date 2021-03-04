@@ -1,7 +1,5 @@
-package Edhesive.Unit_5;
-
-//Unit 5: Lesson 7 - Coding Activity   
-//You don't need the java doc to pass the auto-grader 
+// Unit 5: Lesson 7 - Coding Activity
+// You don't need the java doc to pass the auto-grader
 
 public class RightTriangle {
 
@@ -39,7 +37,6 @@ public class RightTriangle {
     if (height > 0) {
       this.height = height;
     }
-
   }
 
   public double getArea() {
@@ -69,7 +66,12 @@ public class RightTriangle {
 
   @Override
   public String toString() {
-    return "right triangle with base " + base + ", height " + height + ", hypotenuse " + getHypotenuse();
+    return "right triangle with base "
+        + base
+        + ", height "
+        + height
+        + ", hypotenuse "
+        + getHypotenuse();
   }
 
   @Override
@@ -89,6 +91,5 @@ public class RightTriangle {
     }
 
     return true;
-
   }
 }

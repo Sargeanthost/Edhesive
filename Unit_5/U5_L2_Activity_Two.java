@@ -1,7 +1,4 @@
-package Edhesive.Unit_5;
-
 /* Lesson 2 Coding Activity Question 2 */
-import java.lang.StringBuilder;
 
 public class U5_L2_Activity_Two {
 

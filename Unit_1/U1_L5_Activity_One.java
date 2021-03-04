@@ -1,5 +1,3 @@
-package Edhesive.Unit_1;
-
 /* Unit 1 - Lesson 5 - Coding Activity Question 1 */
 
 import java.util.Scanner;
@@ -14,6 +12,5 @@ class U1_L5_Activity_One {
     int first = n % 10;
     int tens = n / 10;
     System.out.println("Here are the digits: \n" + tens + "\n" + first);
-
   }
 }

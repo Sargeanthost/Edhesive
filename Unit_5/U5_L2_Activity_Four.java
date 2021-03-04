@@ -1,5 +1,3 @@
-package Edhesive.Unit_5;
-
 /* Lesson 2 Coding Activity Question 4 */
 
 public class U5_L2_Activity_Four {
@@ -14,5 +12,4 @@ public class U5_L2_Activity_Four {
 
     System.out.print("Hours: " + hours + "\nMinutes: " + minutes + "\nSeconds: " + seconds);
   }
-
 }

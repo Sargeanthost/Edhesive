@@ -1,16 +1,13 @@
-package Edhesive.Unit_3;
-
 /* Lesson 1 Coding Activity Question 4 */
 
 import java.util.Scanner;
 
 public class U3_L1_Activity_Four {
-    public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
-        System.out.println("Please enter an integer:");
-        int n = s.nextInt();
-        String msg = (n % 2 == 0) ? "Even" : "Odd";
-        System.out.println(msg);
-
-    }
+  public static void main(String[] args) {
+    Scanner s = new Scanner(System.in);
+    System.out.println("Please enter an integer:");
+    int n = s.nextInt();
+    String msg = (n % 2 == 0) ? "Even" : "Odd";
+    System.out.println(msg);
+  }
 }

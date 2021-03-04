@@ -1,5 +1,4 @@
 /* Lesson 2 Coding Activity Question 2 */
-package Edhesive.Unit_1;
 
 import java.util.Scanner;
 
