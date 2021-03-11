@@ -1,5 +1,4 @@
-/* Lesson 4 Coding Activity Question 4 */
-
+package Unit_5;
 public class U5_L4_Activity_Four {
 
   public static boolean hasRepeat(String str) {

@@ -1,4 +1,4 @@
-/* Lesson 7 Coding Activity Question 1 */
+package Unit_2;
 
 public class U2_L7_Activity_One {
   public static void main(String[] args) {

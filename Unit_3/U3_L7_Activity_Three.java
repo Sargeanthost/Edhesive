@@ -1,4 +1,4 @@
-/* Lesson 7 Coding Activity Question 3 */
+package Unit_3;
 
 import edhesive.shapes.*;
 import java.util.Scanner;

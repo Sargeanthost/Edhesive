@@ -1,5 +1,4 @@
-/* Assignment 2 - Control Tower */
-/* Class name - must be "Assignment2" in order to run */
+package Unit_2;
 import edhesive.assignment2.Airplane;
 import java.lang.Math.*;
 import java.util.Scanner;

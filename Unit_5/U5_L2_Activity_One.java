@@ -1,5 +1,4 @@
-/* Lesson 2 Coding Activity Question 1 */
-
+package Unit_5;
 public class U5_L2_Activity_One {
 
   public static void monthName(int val) {

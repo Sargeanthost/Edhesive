@@ -1,4 +1,4 @@
-/* Lesson 3 Coding Activity Question 1 */
+package Unit_1;
 
 import java.util.Scanner;
 

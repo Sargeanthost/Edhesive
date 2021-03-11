@@ -1,5 +1,4 @@
-/* Lesson 3 Coding Activity Question 4 */
-
+package Unit_4;
 import java.util.Scanner;
 
 public class U4_L3_Activity_Four {

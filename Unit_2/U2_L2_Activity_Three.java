@@ -1,4 +1,4 @@
-/* Lesson 2 Coding Activity Question 3 */
+package Unit_2;
 
 public class U2_L2_Activity_Three {
   public static void main(String[] args) {

@@ -1,5 +1,4 @@
-// Assignment 4: String Shortener
-
+package Unit_4;
 import java.util.Scanner;
 
 public class Assignment4 {

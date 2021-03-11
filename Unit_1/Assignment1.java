@@ -1,4 +1,4 @@
-/* Assignment 1 - Movie Ratings */
+package Unit_1;
 import java.util.Scanner;
 
 class Assignment1 {

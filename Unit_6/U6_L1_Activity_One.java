@@ -1,3 +1,5 @@
+package Unit_6;
+
 import java.util.Scanner;
 
 public class U6_L1_Activity_One {

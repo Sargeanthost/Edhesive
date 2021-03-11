@@ -1,4 +1,4 @@
-/* Lesson 3 Coding Activity Question 3 */
+package Unit_3;
 
 import edhesive.testing.Math;
 import java.util.Scanner;

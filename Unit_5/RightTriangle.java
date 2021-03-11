@@ -1,3 +1,5 @@
+package Unit_5;
+
 // Unit 5: Lesson 7 - Coding Activity
 // You don't need the java doc to pass the auto-grader
 

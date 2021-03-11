@@ -1,5 +1,5 @@
+package Unit_4;
 import java.util.Scanner;
-
 public class U4_L2_Activity_Three {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
