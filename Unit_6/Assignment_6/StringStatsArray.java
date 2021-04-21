@@ -1,8 +1,5 @@
 package Unit_6.Assignment_6;
 
-import java.util.Arrays;
-import java.util.List;
-
 public class StringStatsArray {
 
     private final String[] strings;

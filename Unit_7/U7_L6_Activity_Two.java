@@ -1,7 +1,6 @@
 package Unit_7;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class U7_L6_Activity_Two {
     public static int insertSort(ArrayList<Integer> list) {

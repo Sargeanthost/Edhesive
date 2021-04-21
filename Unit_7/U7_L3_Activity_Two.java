@@ -11,8 +11,6 @@ public class U7_L3_Activity_Two {
         System.out.println("Sum: " + list.stream().mapToInt(Integer::intValue).sum());
         System.out.println("Average: " + list.stream().mapToDouble(Integer::doubleValue).average().getAsDouble());
 
-        ArrayList<Integer> list2 = new ArrayList<>();
-
         int mode = 0, modeRecord = 0;
 
         for (int i = 0; i < list.size(); i++) {

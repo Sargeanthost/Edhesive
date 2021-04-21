@@ -7,7 +7,6 @@ public class U7_L2_Activity_One {
 
     public static void main(String[] args) {
         ArrayList<String> stringList = new ArrayList<>();
-        StringBuilder stringBuilder = new StringBuilder();
         Scanner s = new Scanner(System.in);
 
         System.out.println("Please enter words, enter STOP to stop the loop.");

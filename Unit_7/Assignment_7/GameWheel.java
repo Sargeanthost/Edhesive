@@ -1,12 +1,10 @@
 package Unit_7.Assignment_7;
 
 import java.util.ArrayList;
-import java.util.Random;
 
 public class GameWheel {
     private ArrayList<Slice> slices; // List of slices making up the wheel
     private int currentPos; // Position of currently selected slice on wheel
-    private final Random rand = new Random();
 
     /*
      * Returns string representation of GameWheel with each numbered slice on a new
